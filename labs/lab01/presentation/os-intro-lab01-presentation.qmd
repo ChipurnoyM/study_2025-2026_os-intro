@@ -1,27 +1,22 @@
 ---
-lang: ru-RU
-title: Лабораторная работа №1
-subtitle: Установка ОС Linux
+## Author
 author:
-  - Чипурной М.Е
-institute:
-  - Российский университет дружбы народов, Москва, Россия
-
-format:
-  beamer:
-    theme: metropolis
-    toc: false
-    slide_level: 2
-    aspectratio: 169
-    section-titles: true
-    include-in-header:
-      text: |
-        \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
-
-  metropolis-beamer-revealjs:
-    slide-number: true
-    slide-level: 2
-    incremental: false
+  name: Чипурной Михаил Евгеньевич
+  degrees: DSc
+  orcid: 0000-0002-0877-7063
+  email: 1032253636@rudn.ru
+  affiliation:
+    - name: Российский университет дружбы народов
+      country: Российская Федерация
+      postal-code: 117198
+      city: Москва
+      address: ул. Миклухо-Маклая, д. 6
+## Title
+title: Лабораторная работа №1
+subtitle: Установка Fedora на VM
+license: CC BY
+date: today
+date-format: "YYYY-MM-DD" # Example: 2025-09-06
 ---
 
 
